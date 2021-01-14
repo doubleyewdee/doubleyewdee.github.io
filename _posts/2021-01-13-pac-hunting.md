@@ -7,7 +7,7 @@ categories: work politics
 
 Before you read this please go read my colleague [Carmen Crincoli](https://twitter.com/carmencrincoli)'s [tremendous Medium post](https://carmencrincoli.medium.com/a-proposal-for-change-at-mspac-79e386b84d91) on the Microsoft PAC. He put in to words many things I've failed to express here and I view my post as an attempt at additive commentary from a poorer author with a less professional style.
 
-I deliberated on the title of this post because it is fairly incendiary, but it is what it is. I want the Microsoft PAC gone. I have wanted it gone for years. I don't believe in PACs or corporations giving (by proxy or directly) to politicians. I think it's toxic and has done immeasurable harm to America over the last several decades. I believe the [Citizen's United](https://en.wikipedia.org/wiki/Citizens_United_v._FEC) decision is fundamentally harmful. I am, I suppose, a "libtard clown". 🤷‍♂️
+I deliberated on the title of this post because it is fairly incendiary, but it is what it is. I want the Microsoft PAC gone. I have wanted it gone for years. I don't believe in PACs or corporations giving (by proxy or directly) to politicians. I think it's toxic and has done immeasurable harm to America over the last several decades. I view the [Citizen's United](https://en.wikipedia.org/wiki/Citizens_United_v._FEC) decision as fundamentally harmful. I am, I suppose, a "libtard clown". 🤷‍♂️
 
 Still, I believe there are superb reasons to disband the Microsoft PAC that are non-partisan and generally amenable to people of all political persuasions and so I shall attempt to make my case as best I can.
 
