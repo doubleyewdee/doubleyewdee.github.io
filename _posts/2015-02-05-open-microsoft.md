@@ -2,7 +2,7 @@
 layout: post
 title:  "open microsoft"
 date:   2015-02-05 00:00:00 -0800
-categories: work
+tags: work
 ---
 
 (Standard disclaimer: I write for me, not Microsoft, despite working there)

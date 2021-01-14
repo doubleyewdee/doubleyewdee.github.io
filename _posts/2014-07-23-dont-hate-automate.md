@@ -2,7 +2,7 @@
 layout: post
 title:  "don't hate, automate"
 date:   2014-07-23 00:00:00 -0800
-categories: work musing
+tags: work musing
 ---
 
 (*After spending some time this weekend reading about the recent changes to vendors/contractors and forced hiatus, along with some commentary, I figured I'd write a bit about what I've observed*)

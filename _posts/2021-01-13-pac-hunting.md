@@ -2,7 +2,7 @@
 layout: post
 title:  "PAC hunting"
 date:   2021-01-13 19:00:00 -0800
-categories: work politics
+tags: work politics
 ---
 
 Before you read this please go read my colleague [Carmen Crincoli](https://twitter.com/carmencrincoli)'s [tremendous Medium post](https://carmencrincoli.medium.com/a-proposal-for-change-at-mspac-79e386b84d91) on the Microsoft PAC. He put in to words many things I've failed to express here and I view my post as an attempt at additive commentary from a poorer author with a less professional style.

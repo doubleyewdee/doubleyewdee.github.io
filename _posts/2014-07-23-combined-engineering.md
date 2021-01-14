@@ -2,7 +2,7 @@
 layout: post
 title:  "combined engineering @ microsoft"
 date:   2014-07-23 00:00:00 -0800
-categories: work
+tags: work
 ---
 
 (I am writing for myself, for fun. I like to say controversial things. I **do not write for my employer**. My employer would perhaps rather I did not write. If my employer asks that I do not write or that I remove something I will do that because they have been great to me. **I might be an asshole**.)

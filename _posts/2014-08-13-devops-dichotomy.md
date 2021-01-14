@@ -2,7 +2,7 @@
 layout: post
 title:  "the dichotomy of devops"
 date:   2014-08-13 00:00:00 -0800
-categories: musing
+tags: musing
 ---
 
 **Operations**: Keey your systems and processes running smoothly and minimize disruption.

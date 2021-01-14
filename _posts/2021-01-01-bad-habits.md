@@ -2,7 +2,7 @@
 layout: post
 title:  "bad habits"
 date:   2021-01-01 23:11:00 -0800
-categories: musing
+tags: musing
 ---
 
 It's a new year which means it is time, once again, to make solemn vows to improve as a human being and set reasonable and actionable goals for myself for the coming 8,760 hours of my life. Goals like not using 'actionable' outside a purely work context, perhaps?
