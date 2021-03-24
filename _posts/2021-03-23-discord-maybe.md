@@ -16,6 +16,6 @@ My takes on this in no particular order:
 
 3. I'm a Discord Nitro subscriber basically because I get $100/yr of value from Discord. That said, I would imagine that subscription fee could be sort of consumed through other offerings (GamePass + xCloud is a natural fit here in the electronic gaming space).
 
-If you, like me, value the ad-free nature of Discord then a purchase of Discord, and particularly a purchase by a non-advertising company, should be seen as really good news. A different purchaser (Amazon, Google, Facebook, etc) with stronger capability in the consumer ad space would see things very differently here.
+   If you, like me, value the ad-free nature of Discord then a purchase of Discord, and particularly a purchase by a non-advertising company, should be seen as really good news. A different purchaser (Amazon, Google, Facebook, etc) with stronger capability in the consumer ad space would see things very differently here.
 
 4. This is not the same as Google's struggles with chat offerings either as the long lineage of Microsoft's eventual failures in this space are both less numerous and spread over a span of time that is basically double Google's. I also think Google's struggles are substantially more self-inflicted (like killing products people actively enjoy in favor of some new unproven system, vs. slowly letting the products rot) but Microsoft's struggles in the consumer chat/comms space are farcical for other reasons. 😅
