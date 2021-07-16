@@ -9,6 +9,8 @@ Had a lot of conversations about the Steam Deck and I figured I should put my fi
 
 Before that though I would make one overarching point: pre-launch excitement and sellouts do not make a product a success. The [Ouya](https://www.cnn.com/2013/06/25/tech/gaming-gadgets/ouya-amazon-sold-out/index.html) and [Wii U](https://www.wsj.com/articles/SB10001424127887323330604578143410742731202) both had excellent pre-sale / launch weeks and went on to be modern flops.
 
+So with that out of the way, here are four major reasons I think the Steam Deck will ultimately fail in the market and why I think you'd be better served spending your gaming dollars elsewhere.
+
 ## 1. Hardware issues
 
 Much is being made of how much more powerful the Steam Deck is than the Nintendo Switch. And that's an accurate statement! The hardware is absolutely beefier in terms of both CPU and GPU than the Switch. The problem is that it's not "enough" for all the supposed uses of the device. To be specific the AMD APU is probably roughly as capable, overall, as a stock PS4 / Xbox One. Not a PS4 Pro or One X, both of those machines are considerably beefier.
