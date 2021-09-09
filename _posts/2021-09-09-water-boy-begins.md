@@ -19,7 +19,7 @@ Finally, I cleaned the thing. This took a good bit of (isopropyl) alcohol and af
 
 During our Wednesday D&D session, between rounds of combat and such, I figured I'd have plenty of free time to do the work of putting on the block and backplate. It took me a little over two hours, but that was with a lot of role play in between. I'd guess again if I was focused on this it would've taken around 90 minutes, maybe even less.
 
-The bulk of my time was cutting thermal pads to a reasonable approximation[^1] of the right shape. Amusingly, the backplate took more time because the instructions wanted me to make 3mm pads by stacking 2+1mm pads. I don't know why you wouldn't ship 3mm pads from the start, but okay. I think this helps save a bit on cost since the difference between a 3080/3080 TI and a 3090 is that the TI has many fewer chips on the rear of the PCB (since it has less RAM). This also gave me the impression that this really didn't need to be an exact science.
+The bulk of my time was ~~playing with[^3]~~ cutting thermal pads to some approximation[^1] of the right shape. Amusingly, the backplate took more time because the instructions wanted me to make 3mm pads by stacking 2+1mm pads. I don't know why you wouldn't ship 3mm pads from the start, but okay. I think this helps save a bit on cost of packaging since the difference between a 3080/3080 TI and a 3090 is that the base/TI have many fewer chips on the rear of the PCB (since it has less RAM), a 3090 simply doesn't *need* 3mm pads at all, so why include them? This packaging situation did also gave me the impression that the sizing and application of the backplate pads really didn't need to be an exact science.
 
 I applied what may be a *bit* too much thermal paste, but I erred on the side of caution[^2] here. Finally, I assembled the whole thing, water block first. I actually popped off the backplate and re-applied it after reducing screw tension a little because I noticed a slight amount of flex in the PCB. Nothing severe or threatening, I don't think, but it was just visible and I don't like that at all.
 
@@ -28,5 +28,5 @@ That was enough for another night, and it's off to my friend the Final Fantasy 4
 ### footnotes
 
 [^1]: I noticed that the thermal pads that came pre-installed weren't super precisely cut, and again a lot of online advice/YT videos says this is cool and you don't have to be perfect.
-[^2]: I've read/seen previously that, if you aren't egregiously stupid, too much thermal paste beats not enough. The [GamersNexus](https://www.gamersnexus.net/guides/3346-thermal-paste-application-benchmark-too-much-thermal-paste
-) people seem wiser than I and I am taking their word for it here.
+[^2]: I've read/seen previously that, if you aren't egregiously stupid, too much thermal paste beats not enough. The [GamersNexus](https://www.gamersnexus.net/guides/3346-thermal-paste-application-benchmark-too-much-thermal-paste) people seem wiser than I and I am taking their word for it here.
+[^3]: Slap a thermal pad on your forehead, it feels kinda cool. Get it? But no really, you can feel it continuously pulling heat off your body. It's fucking cool!
