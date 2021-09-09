@@ -5,7 +5,7 @@ date: 2021-09-09 01:30:00 -0800
 tags: gaming pc
 ---
 
-When I [left this project off]({% post_url 2021-09-02-my-midlife-crisis-pc %}) I had just built the thing in my head and then spent a month or so buying and amassing the parts. Instead of getting down to business, I got cold feet and decided I'd burn time on coming up with clever names for this build like **The Water Boy,** **[Ol' Drippy](https://aqua-teen-hunger-force.fandom.com/wiki/Ol%27_Drippy),** and of course **My Midlife Crisis**, as well as start blogging / tweeting the project. Having done all of these things, and re-watched a bunch of PC build YouTube videos for good measure, I was out of excuses. It was time to actually do the build, and so I've embarked on my adventure.
+When I [left this project off]({% post_url 2021-09-02-my-midlife-crisis-pc %}) I had just built the thing in my head and then spent a month or so buying and amassing the parts. Instead of getting down to business, I got cold feet and decided I'd burn time on coming up with clever names for this build like **The Water Boy,** **[Ol' Drippy](https://aqua-teen-hunger-force.fandom.com/wiki/Ol%27_Drippy),** and of course **My Midlife Crisis**, as well as starting to blog / tweet the project. Having done all of these things, and re-watched a bunch of PC build YouTube videos for good measure, I was out of excuses. It was time to actually do the build, and so I've embarked on my adventure.
 
 ## Night 1: Emancipating the GPU PCB
 
