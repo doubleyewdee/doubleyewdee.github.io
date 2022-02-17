@@ -64,7 +64,7 @@ Blockchain futurists have said that a wonderful world of decentralization and "c
 
 There are cases where [Merkle tree](https://en.wikipedia.org/wiki/Merkle_tree) stores are actually terrific. Git is one of them, but Git is also a significantly more mutable system, without many of the drawbacks of blockchain ledgers. You can literally change the head of a branch to point to a new (or old!) hash whenever you need to fix something. You can tell the server or 'origin' store of the repository that this is the new state of the world. It is not computationally cost prohibitive to do so. Git, instead, is a pleasant mix of "decentralized" (the entire tree[^4] is available locally) and "centralized" (typically a single server is the authoritative origin store). This design is why Git is wildly popular and basically swallowed the entire version control ecosystem in less time than Bitcoin has existed.
 
-Bitcoin, notably, has not swallowed even a significant fraction of financial transactions. But hey, any day now, right?
+Crypto, notably, has not swallowed even a modest fraction of financial transactions (outside of a pretty rampant speculation market which is self-contained). No banks record their internal data using blockchains, no trusted public institutions vote on a chain, etc. If you search for established institutions (companies, governments, etc) using either public or private, permissioned blockchains to drive their business you're likely to come up empty. But hey, any day now, right?
 
 ### endnotes
 [^1]: It's fair to argue that, hey, maybe accelerating the advancement of science and technology isn't so great, but I wouldn't be able to hear you from your log cabin in the mountains if you did so
