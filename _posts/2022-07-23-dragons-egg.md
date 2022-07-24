@@ -5,9 +5,7 @@ date: 2022-07-23 19:30:00 -0700
 tags: books
 ---
 
-**book**: [Dragon's Egg](https://en.wikipedia.org/wiki/Dragon%27s_Egg)
-**author**: Robert L. Forward
-**published**: 1980
+**book**: [Dragon's Egg](https://en.wikipedia.org/wiki/Dragon%27s_Egg), Robert L. Forward 1980
 
 > [since I am taking a Twitter break I've had free time to go back to, like, reading other stuff that isn't the infinite scroll of doom. Figured I'd see if I like writing up my thoughts on books I've read and see if I like doing that.
 > 
