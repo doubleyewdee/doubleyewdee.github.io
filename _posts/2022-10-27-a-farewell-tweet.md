@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "a farewell tweet"
-date: 2022-10-27 i6:00:00 -0700
+date: 2022-10-27 18:00:00 -0700
 tags: twitter
 ---
 
