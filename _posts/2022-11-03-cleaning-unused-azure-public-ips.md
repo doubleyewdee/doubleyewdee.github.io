@@ -23,6 +23,7 @@ $delete_ips = az network public-ip list -o json | convertfrom-json | where-objec
 foreach ($ip in $delete_ips) {
     remove-lock $ip.id
     write-host "deleting unused public IP $($ip.id)"
+    az network public-ip delete --id $ip.id --yes
 }
 ```
 
