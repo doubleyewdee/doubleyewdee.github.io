@@ -23,6 +23,8 @@ Were we Twitter buds? I'll miss you, but I am not going off the grid, so here's 
 
 I'm not really on any other social networks (Mastodon / CounterSocial / etc) right now. I think I might be done with them for good, we'll see. I'll keep posting here, and maybe I'll post more!
 
+*EDIT 2023-04-26*: Turns out I was full of shit and I'm trying out Bluesky for that good classic Twitter vibe without a petulant billionaire owner fucking it up. [@wd.teleri.net](https://bsky.app/profile/wd.teleri.net) is me.
+
 ## why leave?
 
 In the summer of '22 (oof) I took a ~90% Twitter break, deleted the app from every device but my iPad, and broadly stayed offline. I think it was net beneficial for my mental health. The reason I did this to begin with was that I had caught myself awake in bed at 5am, still not asleep, refreshing the damn bird site and looking for that next hit of bad news. Doomscrolling personified. I would literally swipe back to my phone's home screen, only to immediately find my fingers, almost unconsciously, swiping right back to the bird app.
