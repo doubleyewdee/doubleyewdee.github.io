@@ -21,11 +21,11 @@ permalink: /resume/
 - Guided development of multi-cloud solutions to enable low-effort CI/CD across public, sovereign (national), and air-gapped clouds.
 - Implemented fully private/encrypted networking solution for customers using Azure's Private Link / Endpoint mechanics.
 - Leading transition to IPv6+IPv4 support for all Azure ML services.
-- Designed solution for high-availability, multi-cluster Kubernetes backend, including dynamic nodepool scaling, atomic rollout+rollback, etc.
+- Designed solution for high-availability, multi-cluster Kubernetes backend, including dynamic nodepool scaling, atomic rollout+rollback.
 
 #### Senior Software Engineer, Azure Machine Learning (June 2018 - June 2020)
 
-- Helped launch the general availability of Azure ML "v2" in late 2018, including addressing compliance, disaster recovery, etc.
+- Helped launch the general availability of Azure ML "v2" in late 2018, including addressing compliance, disaster recovery.
 - Designed and implemented CI/CD system for a 200+ engineer team to reliably ship updates to control plane microservices.
 - Guided efforts in porting Bing-internal experimentation / training services from .NET Framework (Windows-specific) to .NET Core + Docker container microservices.
 
@@ -51,15 +51,17 @@ permalink: /resume/
 - Hands-on build out of Bing's second-ever (and largest) datacenter, including scripted provisioning of Top-of-rack routers using serial connections and Python scripts.
 - Implemented a system to ship a large (100s of TB) dataset cross-country over a weekend in preference of physically shipping HDDs.
 
-### Network Engineer, Akamai Technologies (September 2004 - May 2005)
+### Previous Experience
 
-### Systems Administrator + Developer, Lunarpages, Inc. (August 2003 - August 2004)
+#### Network Engineer, Akamai Technologies (September 2004 - May 2005)
 
-### Systems Administrator, Verio Webhosting (July 2000 - October 2001)
+#### Systems Administrator + Developer, Lunarpages, Inc. (August 2003 - August 2004)
 
-### Systems Administrator, United Online (February 2000 - July 2000)
+#### Systems Administrator, Verio Webhosting (July 2000 - October 2001)
 
-### Intern Systems & Network Engineer, Sears Roebuck, & Co. (May 1999 - August 1999)
+#### Systems Administrator, United Online (February 2000 - July 2000)
+
+#### Intern Systems & Network Engineer, Sears Roebuck, & Co. (May 1999 - August 1999)
 
 ## Technical Skills
 
@@ -68,6 +70,5 @@ permalink: /resume/
 - Substantial experience with Windows, Linux, and BSD-based operating systems.
 - Familiar with many other languages, including C, C++, Bourne (again) shell (bash), PowerShell, Ruby, etc
 - Kubernetes, Docker, and containerization in general
-- Deep networking knowledge across many layers of protocols (IP + TCP/UDP, HTTP (1/2/3), BGP, Ethernet, etc)
+- Deep networking knowledge across many layers of protocols (IP + TCP/UDP, HTTP (1/2/3), BGP, Ethernet)
 - Extensive experience with many revision control systems, particularly Git, Perforce, and Subversion, with knowledge of Mercurial and CVS
-
