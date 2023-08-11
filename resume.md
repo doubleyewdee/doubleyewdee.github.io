@@ -8,7 +8,7 @@ permalink: /resume/
 - Name: Chip Locke
 - Phone: +1 (206) 388-7789
 - Email: [wd@teleri.net](mailto:wd@teleri.net)
-- [LinkedIn](https://www.linkedin.com/in/doubleyewdee)
+- [GitHub](https://github.com/doubleyewdee/), [LinkedIn](https://www.linkedin.com/in/doubleyewdee),
 
 ## Professional Experience
 
@@ -63,11 +63,11 @@ permalink: /resume/
 
 ## Technical Skills
 
-- Deep familiarty with Windows, Linux, and BSD-based operating systems.
 - Current primary languages are Go, C#, Python
-- Significant experience with highly available, latency-sensitive distributed applications across multiple languages
+- Experience implementing highly available, latency-sensitive distributed applications across multiple platforms + languages
+- Substantial experience with Windows, Linux, and BSD-based operating systems.
 - Familiar with many other languages, including C, C++, Bourne (again) shell (bash), PowerShell, Ruby, etc
-- Experienced with Kubernetes, Docker, and containerization in general
+- Kubernetes, Docker, and containerization in general
 - Deep networking knowledge across many layers of protocols (IP + TCP/UDP, HTTP (1/2/3), BGP, Ethernet, etc)
 - Extensive experience with many revision control systems, particularly Git, Perforce, and Subversion, with knowledge of Mercurial and CVS
-- Experience developing kernel drivers for FreeBSD and Windows
+
