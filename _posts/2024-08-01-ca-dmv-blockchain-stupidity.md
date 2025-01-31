@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "the California DMV isn't actually using 'the blockchain'"
-date: 2023-04-19 23:00:00 -0700
+date: 2024-09-18 23:00:00 -0700
 tags: blockchain musing
 ---
 
