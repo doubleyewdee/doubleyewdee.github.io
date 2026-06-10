@@ -83,7 +83,7 @@ Al is evicted, one imagines for being borderline lunatic in front of a ball of t
 
 ## Conclusion
 
-The song's lyrics make it pretty clear that, really, the family was thrown out more for being there *after closing hours*. I mean, I'm sure the crying didn't help, but if they had managed to show up at 3pm instead of 7:45pm, I bet Al could have just sat on the ground and wept to his hearts' content.
+The song's lyrics make it pretty clear that, really, the family was thrown out more for being there *after closing hours*. I mean, I'm sure the crying didn't help, but if they had managed to show up at 3pm instead of 7:45pm, I bet Al could have just sat on the ground and wept to his heart's content.
 
 So, the moral of the story here is clearly that you shouldn't show up to places 15 minutes before they close and set up shop. Don't do it, it's fucking rude.
 
