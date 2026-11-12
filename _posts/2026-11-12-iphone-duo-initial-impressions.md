@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "iPhone Duo Initial Impressions"
-date: 2026-11-13 12:30:00-0800
+date: 2026-11-13T12:30:00-0800
 tags: musing
 ---
 
